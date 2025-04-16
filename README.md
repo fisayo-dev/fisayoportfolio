@@ -37,4 +37,4 @@ Feel free to connect or reach out for collaboration, freelance gigs, or just to 
 
 - **LinkedIn:** https://linkedin.com/in/fisayo-obadina
 
-- **Telegram:** +2349069783098
+- **Telegram:** [+2349069783098](https://t.me/fisayobadina)
