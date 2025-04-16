@@ -129,6 +129,10 @@ body {
   color: rgb(29, 136, 236);
 }
 
+.bg-blue {
+  background: rgb(29, 136, 236);
+}
+
 .app-container {
   @apply container mx-auto xl:px-[5rem] px-5;
 }
