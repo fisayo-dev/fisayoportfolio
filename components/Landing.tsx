@@ -22,13 +22,14 @@ const Landing = () => {
         {/* Left Content */}
         <div className="text-center md:text-left max-w-2xl">
           <h1 className="text-yellow text-4xl md:text-5xl font-bold">
-            Your all-in-one AI coding assistant.
+            Full Stack Developer 🧠😎
           </h1>
           <p className="mt-4 text-sm w-full md:w-4/5 md:text-[1rem] text-gray-900">
-            Say goodbye to complexity and hello to simplicity. CodeBox is an AI-powered tool designed to assist developers by streamlining the coding process, making your workflow faster and more efficient.
+          I&apos;m Fisayo — a Full-Stack Software Engineer driven by a passion for solving real-world problems through code. I build modern, responsive, and scalable applications, and thrive in hackathons, SaaS innovation, and exploring the future of tech and science
+
           </p>
           <div className="mt-6 flex justify-center md:justify-start">
-            <Button className="cursor-pointer bg-blue px-4 py-3 rounded-full text-lg text-black shadow-md font-semibold hover:bg-blue-400 transition duration-300">
+            <Button className="cursor-pointer bg-blue px-4 py-3 rounded-full text-lg text-white shadow-md font-semibold hover:bg-blue-400 transition duration-300">
               Get Started
             </Button>
           </div>
