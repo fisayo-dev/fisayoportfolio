@@ -1,5 +1,6 @@
 import Image from 'next/image';
 import { Button } from './ui/button';
+import { RocketIcon } from 'lucide-react';
 
 const Landing = () => {
   return (
@@ -30,7 +31,8 @@ const Landing = () => {
           </p>
           <div className="mt-6 flex justify-center md:justify-start">
             <Button className="cursor-pointer bg-blue px-4 py-3 rounded-full text-lg text-white shadow-md font-semibold hover:bg-blue-400 transition duration-300">
-              Get Started
+              <RocketIcon className='h-8 w-8'/>
+              <p>Get Started</p>
             </Button>
           </div>
         </div>
