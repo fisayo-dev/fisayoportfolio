@@ -39,7 +39,7 @@ const Header = () => {
                   smooth={true}
                   duration={500}
                   spy={true}
-                  className="capitalize cursor-pointer p-2 rounded-full hover:bg-gray-600/30 transition-colors"
+                  className="capitalize cursor-pointer p-2 rounded-full hover:bg-blue-300/30 transition-colors"
                   activeClass="text-blue bg-gray-600/30"
                 >
                   {label}
