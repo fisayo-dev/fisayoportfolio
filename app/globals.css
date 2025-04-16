@@ -124,3 +124,11 @@
 body {
   font-family: var(--font-bricolage-groteque)
 }
+
+.text-blue {
+  color: rgb(29, 136, 236);
+}
+
+.app-container {
+  @apply container mx-auto xl:px-[5rem] px-5;
+}
