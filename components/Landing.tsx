@@ -35,7 +35,7 @@ const Landing = () => {
         </div>
 
         {/* Right Image */}
-        <div className="flex justify-center md:justify-end">
+        <div className="flex justify-center">
           <Image
             width={325}
             height={325}
