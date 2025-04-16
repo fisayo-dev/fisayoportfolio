@@ -31,8 +31,8 @@ Feel free to connect or reach out for collaboration, freelance gigs, or just to 
 
 - **Portfolio:** https://your-portfolio-link.com
 
-- **Email:** your-email@example.com
+- **Email:** olufisayobadina@gmail.com
 
-- **GitHub:** https://github.com/your-github
+- **GitHub:** https://github.com/fisay-dev
 
-- **LinkedIn:** https://linkedin.com/in/your-linkedin
+- **LinkedIn:** https://linkedin.com/in/fisayo-obadina
