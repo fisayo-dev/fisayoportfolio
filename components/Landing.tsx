@@ -10,12 +10,15 @@ const Landing = () => {
         className="absolute inset-0 z-0 pointer-events-none"
         aria-hidden="true"
       >
-        <div className="w-full h-full bg-[radial-gradient(#d1d5db_1px,transparent_1px)] [background-size:20px_20px] opacity-30"
-             style={{
-               maskImage: 'linear-gradient(to bottom, rgba(0,0,0,1), rgba(0,0,0,0))',
-               WebkitMaskImage: 'linear-gradient(to bottom, rgba(0,0,0,1), rgba(0,0,0,0))'
-             }}
-        />
+       <div
+        className="w-full h-full bg-[radial-gradient(#4b5563_1px,transparent_1px)] [background-size:20px_20px] opacity-40"
+        style={{
+          maskImage: 'linear-gradient(to bottom, rgba(0,0,0,1), rgba(0,0,0,0))',
+          WebkitMaskImage: 'linear-gradient(to bottom, rgba(0,0,0,1), rgba(0,0,0,0))',
+        }}
+      />
+
+
       </div>
 
       {/* Main Content */}
