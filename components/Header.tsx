@@ -40,7 +40,7 @@ const Header = () => {
                   duration={500}
                   spy={true}
                   className="capitalize cursor-pointer p-2 rounded-full hover:bg-blue-300/30 transition-colors"
-                  activeClass="text-blue bg-gray-600/30"
+                  activeClass="text-black/80 bg-blue-400/30 font-bold"
                 >
                   {label}
                 </Link>
