@@ -36,3 +36,5 @@ Feel free to connect or reach out for collaboration, freelance gigs, or just to 
 - **GitHub:** https://github.com/fisay-dev
 
 - **LinkedIn:** https://linkedin.com/in/fisayo-obadina
+
+- **Telegram:** +2349069783098
