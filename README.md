@@ -1,5 +1,5 @@
 # 💼 Fisayo's Portfolio
-Welcome to the personal portfolio website of Emmanuel, a passionate and innovative Software Engineer dedicated to building high-performance web applications, SaaS products, and creative tech solutions.
+Welcome to the personal portfolio website of Fisayo, a passionate and innovative Software Engineer dedicated to building high-performance web applications, SaaS products, and creative tech solutions.
 
 ## 🚀 About Me
 Hi! I'm Fisayo, a Full-Stack Software Engineer with a strong passion for solving real-world problems through code. With expertise in both frontend and backend development, I specialize in creating modern, responsive, and scalable applications. I'm also deeply interested in participating in hackathons, building SaaS projects, and exploring the frontiers of tech, science, and innovation.
