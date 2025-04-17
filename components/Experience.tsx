@@ -38,7 +38,7 @@ const Experience: React.FC<ExperienceProps> = () => {
           {experiences.map((exp) => (
             <div
               key={exp.id}
-              className="relative pl-12 border-l-4 border-blue-400 md:pl-16 lg:pl-20"
+              className="relative pl-12 md:pl-16 lg:pl-20"
             >
               <Briefcase
                 className="absolute left-0 top-0 bg-white text-blue-400 rounded-full p-1"
